@@ -1,7 +1,111 @@
 PROJECT: Amazon Market Research & Competitive Analysis - European Dog Supplements/Longevity Brand
 DOCUMENT: Scope Note
 LAST UPDATED: 15/08/2026
-STATUS: PLACEHOLDER - to be completed in Phase 1 (Scope Lock-In)
+
+===========================================================
+SCOPE NOTE
+===========================================================
+
+This research supports the exploratory launch of a premium dog
+health, longevity, and wellness supplement brand in Europe, with
+Germany and Amazon.de as the initial test market and beachhead,
+followed by expansion across major European markets.
+
+The output is a market/business-positioning study to inform
+product development and launch decisions before any product is
+built - it is not a technical formulation or veterinary science
+document.
+
+===========================================================
+GEOGRAPHIC SCOPE
+===========================================================
+
+Primary market (deep dive): Germany
+
+Secondary markets (sized, not deep-dived): France, United
+Kingdom, Italy, Spain, Netherlands, Austria, Switzerland, and
+other significant European markets where relevant.
+
+===========================================================
+CATEGORY SCOPE
+===========================================================
+
+In scope: dog health, wellness, longevity/healthspan, and
+nutraceutical supplements only, across all formats (soft chews,
+tablets, capsules, powders, liquids/oils, functional treats) and
+all functional categories (joint/mobility, gut/digestive,
+probiotics/prebiotics, skin/coat, omega-3, multivitamins,
+immunity, calming/stress, dental, heart/cardiovascular,
+cognitive/brain, senior support, healthy aging, longevity/
+healthspan, antioxidants, metabolic health, weight management).
+
+Out of scope: dog food, treats without a functional health claim,
+toys, accessories, and non-dog pet categories.
+
+Longevity/healthspan is flagged as a priority sub-focus per the
+client brief - specifically whether it can become a major category
+in Europe, drawing on ingredient and consumer-trend signals from
+the US, Japan, and other advanced pet markets.
+
+===========================================================
+RESEARCH QUESTIONS
+===========================================================
+
+1. What is the current size, growth rate, and structure of the
+   dog supplement/nutraceutical market across Germany and the
+   other target European markets?
+2. Who are the leading competitors on Amazon.de and in the wider
+   German/European market, and what does their product,
+   pricing, and positioning look like?
+3. What do customers actually want - and what are they not
+   getting from existing products (via review mining)?
+4. Which product categories show high demand but weak
+   competition, and which formats and price bands are most
+   viable for a new premium entrant?
+5. Is longevity/healthy aging a credible, distinct category
+   opportunity in Europe, or still too early?
+6. Given all of the above, which 3-5 products should a new
+   premium brand launch first, in what order, and why?
+
+===========================================================
+ANALYTICAL FRAMEWORK (OPPORTUNITY MATRIX)
+===========================================================
+
+Each candidate product category will be scored/ranked against the
+following criteria before any launch recommendation is made:
+
+1. Market demand
+2. Growth trajectory
+3. Level of competition
+4. Average selling price
+5. Margin potential
+6. Differentiation potential
+7. Repeat-purchase potential
+8. Regulatory complexity
+9. Amazon opportunity
+10. DTC opportunity
+11. Long-term brand potential
+
+This framework is fixed before deep-dive research begins, so the
+final 3-5 product recommendations are traceable to explicit,
+consistently-applied criteria rather than subjective preference.
+
+===========================================================
+SOURCING STANDARDS
+===========================================================
+
+All findings are drawn from publicly available, credible sources:
+company/brand websites, Amazon.de listings, professional Amazon
+research tools (Helium 10, Jungle Scout, Keepa, or equivalent),
+Google Trends/keyword tools, EU/German regulatory sources, and
+reputable market research or news publications.
+
+Verified data (e.g., directly observed Amazon listing data) will
+be clearly distinguished from estimates (e.g., modeled market
+size or sales figures) throughout. No classified, leaked, or
+non-public information is used or sought. No unsupported or
+generic AI-generated market-size figures are used without a
+traceable source or stated estimation methodology.
 
 ===========================================================
 END OF DOCUMENT
