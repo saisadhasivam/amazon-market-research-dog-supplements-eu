@@ -1,0 +1,41 @@
+PROJECT: Amazon Market Research & Competitive Analysis - European Dog Supplements/Longevity Brand
+DOCUMENT: Folder Structure Documentation
+LAST UPDATED: 15/08/2026
+
+===========================================================
+FOLDER STRUCTURE
+===========================================================
+
+AMAZON MARKET RESEARCH - EUROPEAN DOG SUPPLEMENTS
+|
++-- 01_Screenshots_and_Sources
+|     Raw evidence and sourced facts.
+|     - Data_Source_Documentation.xlsx  (every sourced fact, logged individually)
+|     - Job_Post_Screenshots           (original client brief screenshots)
+|
++-- 02_Working_Files
+|     Active analysis and drafting.
+|     - Market_Sizing_Working.xlsx        (per-country market size/growth data)
+|     - Germany_Deep_Dive.xlsx            (Germany-specific market data)
+|     - Amazon_Competitor_Analysis.xlsx   (product-level competitive data)
+|     - Category_Analysis.xlsx            (demand/competition by category)
+|     - Brand_Analysis.xlsx               (20-30 brand profiles)
+|     - Keyword_Research.xlsx             (DE/EN keyword & search volume data)
+|     - Opportunity_Matrix.xlsx           (scoring matrix + final recommendations)
+|     - Research_Report_Draft.docx        (working draft of the full report)
+|     - Full_Source_List.docx             (working copy of the source list)
+|
++-- 03_Deliverables
+|     Final, client-ready output only.
+|     - European Dog Supplements Market Research Report.pdf  (primary deliverable)
+|     - Research_Report_Final.docx / .pdf  (editable backup version)
+|     - Competitor_and_Market_Database.xlsx (final Excel/Sheets database)
+|     - Full_Source_List.pdf
+|
++-- Folder_Structure_Documentation.txt  (this document)
++-- Scope_Note.txt                      (project scope + framework)
++-- README.md                           (project methodology)
+
+===========================================================
+END OF DOCUMENT
+===========================================================

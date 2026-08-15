@@ -1,0 +1,8 @@
+PROJECT: Amazon Market Research & Competitive Analysis - European Dog Supplements/Longevity Brand
+DOCUMENT: Scope Note
+LAST UPDATED: 15/08/2026
+STATUS: PLACEHOLDER - to be completed in Phase 1 (Scope Lock-In)
+
+===========================================================
+END OF DOCUMENT
+===========================================================
