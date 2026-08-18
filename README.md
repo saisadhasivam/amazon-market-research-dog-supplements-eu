@@ -2,7 +2,7 @@
 
 **Author:** Sai Sadhasivam
 **Date:** August 2026
-**Type:** Market research and competitive intelligence brief (client-commissioned, Upwork)
+**Type:** Market research and competitive intelligence brief
 
 ---
 
